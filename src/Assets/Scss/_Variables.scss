@@ -1,0 +1,41 @@
+
+
+/////////////////////////
+//////// COLORS /////////
+/////////////////////////
+
+$white:                #fff !default;
+$black:                #000 !default;
+$red:                  #d9534f !default;
+$orange:               #f0ad4e !default;
+$yellow:               #ffd500 !default;
+$green:                #5cb85c !default;
+$blue:                 #0275d8 !default;
+$teal:                 #5bc0de !default;
+$pink:                 #ff5b77 !default;
+$purple:               #613d7c !default;
+
+$gray-dark:            #292b2c !default;
+$gray:                 #464a4c !default;
+$gray__1:              #636c72 !default;
+$gray__2:              #eceeef !default;
+$gray__3:              #f7f7f9 !default;
+
+$__primary:             $blue !default;
+$__success:             $green !default;
+$__info:                $teal !default;
+$__warning:             $orange !default;
+$__danger:              $red !default;
+$__inverse:             $gray-dark !default;
+
+/////////////////////////
+///////// FONTS /////////
+/////////////////////////
+
+$__font_family_base:         'Open Sans, Sans Sefif' !default;
+$__font_family_accent:       'Sofia Pro' !default;
+
+$__font-size-lg:          1.50rem !default;
+$__font-size-md:          1.25rem !default;
+$__font_size_bs:           1rem !default;
+$__font-size-sm:          .875rem !default;

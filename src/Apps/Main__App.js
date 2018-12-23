@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Toggle, Portal, Modal } from '../Utilities';
+import { Toggle, Portal, Modal } from '../Utils';
 
 class App extends Component {
   render() {
